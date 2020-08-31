@@ -1,4 +1,4 @@
-# Sentiment-Analysis-using-RNN-LSTM-GRU-BRNN
+# Sentiment Analysis using RNN, LSTM, GRU & Bi LSTM
 ## About
 With the rapid development of the Internet, more and more users expressed their views on the Internet. Therefore, the big data of texts are generated on the Internet. Social media is generating a vast amount of sentiment rich data in the form of tweets, status updates, blog posts etc. In the era of big data and deep learning, mining the sentiment tendencies contained in massive texts on the Internet through natural language processing technology has become an important way of public opinion supervision. This analysis has a vast and great applications such as stock price prediction, election result prediction, and so on. In this paper, I have applied a simple and efficient Neural Language Model approach for text classification (Sentiment Analysis) that relies only on unsupervised word representation inputs along with word embedding technique, which has improved the model to capture syntactic and semantic word relationships. This paper shows that applying the RNN, LSTM, GRU, Bidirectional RNN models achieves excellent result on the customer review dataset.
 
